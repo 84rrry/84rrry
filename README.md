@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelbari</h1>
+<h1 align="center">Hi 👋, I'm Abdelbari<img align="right" alt="Coding" width="100" src="Images/mobdev.gif"></h1>
 <h3 align="center">Mobile DEV & AI engineer</h3>
 <h3 align="center">Motivated and Passionate about anything with 0 and 1 in it</h3>
 <img align="right" alt="Coding" width="400" src="Images/mobdev.gif">
