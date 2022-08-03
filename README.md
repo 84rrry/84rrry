@@ -1,5 +1,5 @@
 
-<p align="center"> <img height="300"  src="Images/My cover.png" alt="Coding" /> </p>
+<p align="center"> <img  src="Images/My cover.png" alt="Coding" /> </p>
 <h1 align="center">Hi 👋, I'm Abdelbari</h1>
 <p align="center"> <img width="100"  src="Images/crazy.png" alt="Coding" /> </p>
 <h3 align="center">Mobile DEV & AI engineer</h3>
