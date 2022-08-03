@@ -1,4 +1,5 @@
-<p align="center" alt="Coding" width="100" src="Images/crazy.png"</p>
+
+<p align="center"> <img  src="Images/crazy.png" alt="Coding" /> </p>
 <h1 align="center">Hi 👋, I'm Abdelbari</h1>
 <h3 align="center">Mobile DEV & AI engineer</h3>
 <h3 align="center">Motivated and Passionate about anything with 0 and 1 in it</h3>
