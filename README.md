@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdelbari</h1>
+<h3 align="Mobile DEV & AI engineer</h3>
 <h3 align="center">Motivated and Passionate about anything with 0 and 1 in it</h3>
 <img align="right" alt="Coding" width="400" src="Images/mobdev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=84rrry&label=Profile%20views&color=0e75b6&style=flat" alt="84rrry" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=84rrry" alt="84rrry" /></a> </p> -->
 
-- 🔭 I’m currently working on **Flutter skills**
+- 🔭 I’m currently working on **Flutter Apps**
 
 - 💬 Ask me about **Flutter/Python/AI**
 
