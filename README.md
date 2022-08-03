@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdelbari</h1>
 <h3 align="center">Mobile DEV & AI engineer</h3>
 <h3 align="center">Motivated and Passionate about anything with 0 and 1 in it</h3>
-<img align="right" alt="Coding" width="400" src="Images/mobdevop.gif">
+<img align="right" alt="Coding" width="400" src="Images/mobdevop.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=84rrry&label=Profile%20views&color=0e75b6&style=flat" alt="84rrry" /> </p>
 
 
