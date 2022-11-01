@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdelbaribouklab@gmail.com**
 
-- 📄 Know about my experiences https://cvdesignr.com/p/6208e60251f32
+- 📄 Know about my experiences https://drive.google.com/file/d/1quBBmvpEC_f5yTvBLjhO1JHcnRb8APfe/view?usp=sharing
 
 - ⚡ Fun fact **I'm a Gym rat 💪**
 
