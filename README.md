@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=84rrry&show_icons=true&locale=en" alt="84rrry" /></p>
 
-![snake svg](https://github.com/84rrry/84rrry/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/84rrry/84rrry/blob/output/github-contribution-grid-snake.svg)
