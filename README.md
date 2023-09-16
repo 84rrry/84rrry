@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdelbaribouklab@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MVnoYttRY50qIvP2emweeZLFeshhRvvn/view?usp=share_link](https://drive.google.com/file/d/1JVLi4oOQn8l-GgPCmE7Yf5lHRZxsyr33/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1MVnoYttRY50qIvP2emweeZLFeshhRvvn/view?usp=sharing
 
 - ⚡ Fun fact **I'm a Gym rat 💪**
 
