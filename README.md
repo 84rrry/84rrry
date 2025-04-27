@@ -29,5 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=84rrry&show_icons=true&locale=en&layout=compact" alt="84rrry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=84rrry&show_icons=true&locale=en" alt="84rrry" /></p>
-
-![Snake animation](https://github.com/84rrry/84rrry/blob/output/github-contribution-grid-snake.svg)
