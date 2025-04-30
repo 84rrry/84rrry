@@ -8,7 +8,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Want to connect? You’ll find my professional profile and contact info on LinkedIn. I'm always open to collaborations, new opportunities, or just chatting about the latest in tech and software development. Let’s build something great together." </p>
+<p> Want to connect? You’ll find my professional profile and contact info on LinkedIn. I'm always open to collaborations, new opportunities, or just chatting about the latest in tech and software development. Let’s build something great together.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelbari-bouklab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
