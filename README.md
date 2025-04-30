@@ -23,8 +23,6 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity</p>
   <img src="https://raw.githubusercontent.com/84rrry/84rrry/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/84rrry/84rrry/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
