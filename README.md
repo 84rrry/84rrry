@@ -16,7 +16,7 @@
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-  <a href="https://drive.google.com/file/d/1Crqlqg0seP1Ieaa-z1ilx2SG0FmjGvqo/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CA-_v2jS4JbAd7DM91J843nmE304HJSs/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=84rrry&style=for-the-badge" alt="Profile views" />
